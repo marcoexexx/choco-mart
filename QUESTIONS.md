@@ -33,3 +33,6 @@
 > 4. order management?
 > 5. marketing management?
 > 6. website UI management?
+
+## 9. Translate
+> translate သုံးမှာလား languages ?
